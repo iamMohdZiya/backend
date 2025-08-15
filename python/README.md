@@ -131,4 +131,4 @@ By mastering this roadmap, you will:
 ## 🏆 Author
 **Mohd Ziya**  
 Backend Developer | Python | MERN | Java  
-[LinkedIn](https://linkedin.com/in/mohdziya) | [Portfolio](mohdziya.netlify.app)
+[LinkedIn](https://linkedin.com/in/mohdziya) | [Portfolio](https://mohdziya.netlify.app)
